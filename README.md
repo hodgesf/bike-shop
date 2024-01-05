@@ -1,7 +1,6 @@
 # bike-shop
 an interactive Bash program that stores rental information for your bike rental shop using PostgreSQL.
 
-Certainly! Here's an example README file for your bike rental shop project:
 
 ---
 
